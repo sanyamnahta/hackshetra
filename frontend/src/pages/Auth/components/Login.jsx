@@ -13,7 +13,7 @@ import EmailIcon from "@material-ui/icons/EmailOutlined";
 const useStyles = makeStyles((theme) => ({
   root: {},
   form: {
-    paddingBottom: theme.spacing(4),
+    paddingBottom: theme.spacing(3),
   },
 }));
 
